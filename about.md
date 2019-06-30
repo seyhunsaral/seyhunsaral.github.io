@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am working as the lab manager at the Max Planck Institute for Research on Collective Goods and a PhD candidate at the University of Trento. You can learn more about me on my [personal website](https://www.saral.it)
